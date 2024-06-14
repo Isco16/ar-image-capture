@@ -5,7 +5,7 @@ This project is intended to enable coloring pages to function as image targets f
   
 The algorithm can capture image targets from any angle with the device camera and extract their content to project them into a square image, so it can be used as a UV map to texture any model.  
   
-In order to use AR Image Capture it is required to import both the OpenCV for Unity plugin and Vuforia engine SDK first.  
+To use AR Image Capture, you must first import the latest versions of both the OpenCV for Unity plugin and the Vuforia Engine SDK.  
 
 https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
 
@@ -23,3 +23,4 @@ AR Image Capture project was made with Unity 2022.3.12f1 version.
   
 #### *Youtube demo video*  
   
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4DCd59VJvP4/0.jpg)](https://www.youtube.com/watch?v=4DCd59VJvP4)
