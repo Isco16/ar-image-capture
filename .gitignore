@@ -1,1 +1,2 @@
 *.meta
+!Resources/**/*.meta
