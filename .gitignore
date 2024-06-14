@@ -1,2 +1,5 @@
 *.meta
+!Example Scene/*.meta
 !Resources/**/*.meta
+!Scripts/*.meta
+!Shaders/*.meta
